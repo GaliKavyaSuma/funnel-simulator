@@ -6,7 +6,7 @@ An interactive decision-support tool that simulates how improvements in user con
 
 ## 🌐 Live Demo
 
-_Add your deployed link here after deployment_
+https://funnel-simulator.streamlit.app/
 
 ---
 
